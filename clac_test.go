@@ -14,7 +14,12 @@ func TestSub(t *testing.T) {
 	}
 }
 
-//add sth
+func TestMul(t *testing.T) {
+	if Mul(2, 3) != 6 {
+		t.Fatal("mul err")
+	}
+}
+
 
 
 //add sth 2
