@@ -20,6 +20,6 @@ func TestMul(t *testing.T) {
 	}
 }
 
-
+// div
 
 //add sth 2
